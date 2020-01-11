@@ -1,0 +1,72 @@
+{
+    "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
+    "editor.quickSuggestionsDelay": 30,
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on",
+    "editor.tabSize": 2,
+    "editor.minimap.enabled": false,
+    "editor.colorDecorators": false,
+    "editor.snippetSuggestions": "top",
+    "editor.autoIndent": true,
+    "editor.detectIndentation": false,
+    "editor.showFoldingControls": "always",
+    "editor.find.seedSearchStringFromSelection": true,
+    "editor.matchBrackets": true,
+    "editor.scrollBeyondLastLine": true,
+    "editor.useTabStops": true,
+    "editor.formatOnPaste": true,
+    "editor.parameterHints.enabled": false,
+    "editor.renderWhitespace": "all",
+
+    "html.format.enable": true,
+    "html.format.preserveNewLines": true,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.autoSave": "onFocusChange",
+    "files.associations": {
+      "*.js": "javascriptreact"
+    },
+
+    "window.titleBarStyle": "custom",
+    "window.openFilesInNewWindow": "off",
+    "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}",
+    "window.closeWhenEmpty": true,
+
+    "gitlens.codeLens.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.enabled": false,
+    "gitlens.showWhatsNewAfterUpgrades": false,
+
+
+    "open-in-browser.default": "Google Chrome",
+
+    "javascript.updateImportsOnFileMove.enabled": "always",
+
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.statusBar.visible": true,
+    "workbench.editor.tabSizing": "shrink",
+    // "workbench.activityBar.visible": false,
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#333333",
+        "statusBar.noFolderBackground": "#333333",
+        "statusBar.debuggingBackground": "#263238"
+    },
+
+    "css.validate": false,
+    "scss.validate": false,
+    "less.validate": false,
+
+    "latex-workshop.message.update.show": false,
+
+    "eslint.autoFixOnSave": true,
+    "eslint.alwaysShowStatus": true,
+
+    "prettier.disableLanguages": [
+        "js"
+      ],
+      "explorer.confirmDragAndDrop": false,
+      "editor.suggestSelection": "first",
+      "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+      "python.jediEnabled": false,
+}
