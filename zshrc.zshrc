@@ -1,13 +1,13 @@
 ################################### aliases ###################################
-alias dev='cd /Users/adamhursey/Development'
-alias Dev='cd /Users/adamhursey/Development'
-alias HBAM='cd /Users/adamhursey/Development/HBAM'
-alias hbam='cd /Users/adamhursey/Development/HBAM'
-alias hb='cd /Users/adamhursey/Development/HBAM'
+alias dev='cd /Users/adam/Development'
+alias Dev='cd /Users/adam/Development'
+alias HBAM='cd /Users/adam/Development/HBAM'
+alias hbam='cd /Users/adam/Development/HBAM'
+alias hb='cd /Users/adam/Development/HBAM'
 alias copy='pbcopy'
 alias copyP='pwd|pbcopy'
 alias copyp='pwd|pbcopy'
-alias edit='code /Users/adamhursey/.zshrc'
+alias edit='code /Users/adam/.zshrc'
 alias reload='source ~/.zshrc'
 alias c='clear'
 alias start='dev; sh db.sh'
@@ -30,7 +30,7 @@ fi
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/Users/adamhursey/.oh-my-zsh"
+export ZSH="/Users/adam/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
